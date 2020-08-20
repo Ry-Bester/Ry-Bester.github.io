@@ -107,7 +107,7 @@ body.fade-out {
 /* Text over the video */ 
 .Video_Text { 
 	background: rgba(0, 0, 0, 0.5); /* This provides a semi-transparent background for the text to sit over */
-	color: rgb(57, 15, 207); 
+	color: white); 
 	width: 100%;
 	padding-top: .1vh; /* This adds padding around the text so that the background goes slightly beyond the text */
 	padding-bottom: 1vh;
